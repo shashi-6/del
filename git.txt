@@ -16,4 +16,16 @@ git log: dispalays all the changes commited along with hashcodes:
 
 git checkout hashcode: u will move to the commit of that particular hashcode
 
- 
+
+#push
+
+git remote add origin "link from newly created repo from git" 
+
+git branch -M main
+
+git push -u origin main
+
+
+
+git remote -v :checks fetch and push locations 
+
