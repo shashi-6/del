@@ -8,18 +8,30 @@ git commit -m "Message": commits the changes made
 
 git status: cheks the status of each file weather they are in the staging zone or not
 
+
+
+
+#branching
+
 git branch somename: creates a branch with somename
 
 git merge somename: merges the somename branch with current branch
 
-git log: dispalays all the changes commited along with hashcodes:
+git log: dispalays all the changes commited along with hashcodes
 
 git checkout hashcode: u will move to  that particular branch of hashcode
 
 
+
+#adding git details(config)
+
 git config --global user.email "email used in git" : to add git account email
+
 git config --global user.name "user name of git" : to add git account username
+
 git config --global --edit : to change the git account details
+
+
 
 #push
 
