@@ -17,6 +17,10 @@ git log: dispalays all the changes commited along with hashcodes:
 git checkout hashcode: u will move to the commit of that particular hashcode
 
 
+git config --global user.email "email used in git" : to add git account email
+git config --global user.name "user name of git" : to add git account username
+git config --global --edit : to change the git account details
+
 #push
 
 git remote add origin "link from newly created repo from git" 
