@@ -10,11 +10,11 @@ git status: cheks the status of each file weather they are in the staging zone o
 
 git branch somename: creates a branch with somename
 
-git merge somename: merges the somename branch with current
+git merge somename: merges the somename branch with current branch
 
 git log: dispalays all the changes commited along with hashcodes:
 
-git checkout hashcode: u will move to the commit of that particular hashcode
+git checkout hashcode: u will move to  that particular branch of hashcode
 
 
 git config --global user.email "email used in git" : to add git account email
