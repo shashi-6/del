@@ -8,7 +8,7 @@ git commit -m "Message": commits the changes made
 
 git status: cheks the status of each file weather they are in the staging zone or not
 
-
+git colne "link from git": clones the repo from your git
 
 
 #branching
