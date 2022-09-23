@@ -1,2 +1,2 @@
 #head
-general 
+general purpose 
